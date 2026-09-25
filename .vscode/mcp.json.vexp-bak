@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "vexp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "c:\\Users\\MichaelGarcia\\.vscode\\extensions\\vexp.vexp-vscode-3.0.1-win32-x64\\dist\\mcp-server.cjs"
+      ],
+      "env": {
+        "VEXP_WORKSPACE": "c:\\Tools\\CIPP"
+      }
+    }
+  }
+}
